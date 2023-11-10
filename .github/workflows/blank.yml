@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seu Site com Power BI</title>
+</head>
+<body>
+
+    <h1>Meu Relatório Power BI</h1>
+
+    <!-- Substitua o URL do iframe com o seu link do Power BI -->
+    <iframe title="GRATO_PRONTO" width="1140" height="541.25" 
+            src="https://app.powerbi.com/reportEmbed?reportId=00895c46-bd19-41b8-acd5-b87198564034&autoAuth=true&ctid=655aa61d-5dcb-4182-97f1-2f54919de0cf" 
+            frameborder="0" allowFullScreen="true"></iframe>
+
+</body>
+</html>
